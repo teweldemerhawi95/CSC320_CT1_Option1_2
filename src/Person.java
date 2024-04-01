@@ -14,5 +14,6 @@ public class Person {
         System.out.println("Street address: " + streetAddress);
         System.out.println("City: " + city);
         System.out.println("Zip code: " + zipCode);
+    
     }
 }
